@@ -1,0 +1,19 @@
+{
+  "name": "ca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maren Grimstad",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.5",
+    "gulp": "^3.9.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-less": "^4.0.1"
+  }
+}
