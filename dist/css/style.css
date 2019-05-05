@@ -1,0 +1,22 @@
+@media only screen and (max-width:1000px){div.text-block{display:none}}body{max-width:1400px;margin:auto;background-color:#faffff}h1{font-family:'Shadows Into Light Two',cursive;font-size:40px}h2{font-family:'Shadows Into Light Two',cursive;font-size:30px}h3{font-family:'Shadows Into Light Two',cursive;font-size:25px;margin-top:20px}p{padding-left:5px;padding-bottom:5px}.navbar{margin-bottom:0;border-radius:0}.container-fluid{padding-bottom:50px}footer{position:relative;height:100px;bottom:0;width:100%;background-color:#555;color:#fff;padding:15px;margin-top:50px}.btn{margin-bottom:10px}.col-sm-4{background-color:#e6e6fa}.glyphicon{color:#90ee90;font-size:30px;margin-top:20px}.form-group{max-width:400px}.small-img{width:100%;max-height:220px}.container-img{position:relative}.img-responsive{display:block;margin-left:auto;margin-right:auto;width:100%}.container-img .btn{color:#fff;font-size:16px;padding:12px 24px;border:none;cursor:pointer;border-radius:5px;text-align:center;width:100%;opacity:.9}.container-img .btn:hover{background-color:#000}*{box-sizing:border-box}.text-block{position:absolute;top:5%;left:5%;margin:20px;max-width:100%;padding:16px;background-color:#fff0f5;text-align:center;height:auto;opacity:.9}-align: center;
+  width: 100%;
+  opacity: 0.9;
+}
+.container-img .btn:hover {
+  background-color: black;
+}
+* {
+  box-sizing: border-box;
+}
+.text-block {
+  position: absolute;
+  top: 5%;
+  left: 5%;
+  margin: 20px;
+  max-width: 100%;
+  padding: 16px;
+  background-color: lavenderblush;
+  text-align: center;
+  height: auto;
+  opacity: 0.9;
+}
